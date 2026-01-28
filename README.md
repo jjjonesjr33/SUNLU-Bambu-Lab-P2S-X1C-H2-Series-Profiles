@@ -66,6 +66,8 @@ Follow these steps to import the SUNLU H2 Series profiles into your Bambu Studio
 
 > [!WARNING]
 > Keep this folder handy — you can re-import any time you want to restore or update profiles.
+>
+> These were properly set up, imported, and tested with PETG and ASA. I still need to test the PLA series, but all profiles were pulled from the manufacturer’s website and the Bambu Labs GitHub repo. TPU and ABS still need to be added, but this should cover a good chunk of what was missing.
 
 ## 🧪 Intended Use
 
