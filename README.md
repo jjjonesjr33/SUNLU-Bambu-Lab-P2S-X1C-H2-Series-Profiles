@@ -98,9 +98,7 @@ This repository is licensed under the
 - ✔ Modification and sharing with attribution
 - ❌ Commercial use without explicit permission
 
----
-
-## Star History
+## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=jjjonesjr33/SUNLU-Bambu-Lab-H2-Series-Profiles&type=Date&theme=dark)](https://www.star-history.com/#jjjonesjr33/SUNLU-Bambu-Lab-H2-Series-Profiles&Date)
 
