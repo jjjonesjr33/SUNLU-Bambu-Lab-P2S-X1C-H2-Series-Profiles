@@ -1,12 +1,12 @@
 ![Logo](https://github.com/user-attachments/assets/7475b85d-2cc4-4683-ba57-0bdb733ce502)
 
-# Show Your Support on MakerWorld!
-[![MakerWorld][makerworldbadge]][makerworldlink]
-
 
 # SUNLU Bambu Lab H2 Series Profiles
 ### Precision-tuned **Bambu Lab H2 Series filament profiles** optimized specifically for **SUNLU filaments**.
 [![version][versionbadge]][versionlink] [![release][releasebadge]][releaselink] [![starsbadge][starsbadge]][stars]
+
+### Show Your Support on MakerWorld!
+[![MakerWorld][makerworldbadge]][makerworldlink]
 
 These profiles are designed to deliver **reliable extrusion**, **strong layer adhesion**, and **consistent surface quality** across a wide range of SUNLU materials—reducing trial-and-error and saving you time on calibration.
 
