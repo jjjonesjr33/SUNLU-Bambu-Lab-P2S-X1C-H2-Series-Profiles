@@ -2,7 +2,7 @@
 
 
 # SUNLU Bambu Lab H2 Series Profiles
-### Precision-tuned **Bambu Lab H2 Series filament profiles** optimized specifically for **SUNLU filaments**.
+### Precision-tuned **Bambu Lab P2S, X1C, & H2 Series filament profiles** optimized specifically for **SUNLU filaments**.
 [![version][versionbadge]][versionlink] [![release][releasebadge]][releaselink] [![starsbadge][starsbadge]][stars]
 
 ### Show Your Support on MakerWorld!
